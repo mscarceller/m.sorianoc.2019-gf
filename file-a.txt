@@ -1,1 +1,1 @@
-f2 - This is the 'a' file
+This is the 'a' file with f2 anf f3 conflict solved
